@@ -17,3 +17,6 @@ ghc sokoban.hs -threaded
 * `W,S,A,D` - movement  
 
 ## Example levels:
+
+![Example](./images/example_1.png)
+![Example](./images/example_2.png)
